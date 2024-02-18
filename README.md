@@ -13,12 +13,12 @@ This challenge is designed based on the provided template from Frontend Mentor w
 
 ### Screenshot
 
-![](./Product_preview_card_screenshot.png)
+![Product Preview Card](./screenshot/Product_Preview_Card_Screenshot.png)
 
 ### Links
 
--   Solution URL: [https://github.com/Albrt78/frontend_mentor_project/tree/main/product%20preview%20card]
--   Live Site URL: [https://zesty-sopapillas-ed8ad5.netlify.app/]
+-   Solution URL: [Product Preview Card](https://github.com/Albrt78/productpreviewcard.github.io)
+-   Live Site URL: [Product Preview Card](https://albrt78.github.io/productpreviewcard.github.io/)
 
 ### Built with
 
