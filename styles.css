@@ -155,3 +155,41 @@ body {
     }
 }
 
+@media (max-width: 320.98px) {
+    .wrapper {
+        margin-block: 1rem;
+    }
+
+    .wrapper .content .header {
+        margin-bottom: 10px;
+        font-size: 1.5rem;
+    }
+
+    .wrapper .content .description {
+        font-size: 0.7rem;
+        margin-bottom: 10px;
+    }
+
+    .wrapper .content .price {
+        gap: 15px;
+        margin-bottom: 1.3rem;
+    }
+
+    .wrapper .content .price p {
+        font-size: 1.7rem;
+    }
+
+    .wrapper .content .price s {
+        font-size: 0.7rem;
+    }
+
+    .wrapper .content button {
+        font-size: 0.8rem;
+        padding-block: 0.8rem;
+    }
+
+    .wrapper .content button > img {
+        width: 0.8rem;
+    }
+}
+
